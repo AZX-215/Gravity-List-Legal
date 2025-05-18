@@ -44,4 +44,4 @@ We may update this Policy from time to time. The “Last updated” date will re
 Depending on your jurisdiction, you may have rights to access, rectify, or erase your personal data. To exercise these rights, contact us.
 
 ## 10. Contact Us
-For questions about this Privacy Policy, please email **contact@gravityslists.example.com**.
+For questions about this Privacy Policy, please contact #azx9071 via Discord.
