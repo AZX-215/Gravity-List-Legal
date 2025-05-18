@@ -41,4 +41,4 @@ We may suspend or terminate your access to the Service at any time, for any reas
 These Terms are governed by the laws of the State of New York, USA, without regard to conflict-of-law principles. Any dispute arising under these Terms shall be resolved exclusively in the state or federal courts located in New York County, New York.
 
 ## 12. Contact Us
-If you have any questions about these Terms, please contact us at **contact@gravityslists.example.com**.
+If you have any questions about these Terms, please contact #azx9071 via Discord.
