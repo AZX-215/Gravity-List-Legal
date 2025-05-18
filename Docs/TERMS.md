@@ -2,7 +2,7 @@
 
 **Last updated: May 17, 2025**
 
-Welcome to Gravity’s Lists (“we,” “us,” or “our”). These Terms of Service (“Terms”) govern your access to and use of the Gravity’s Lists Discord application (the “Service”). By installing or using the Service, you agree to these Terms.
+Welcome to Gravity List (“we,” “us,” or “our”). These Terms of Service (“Terms”) govern your access to and use of the Gravity’s Lists Discord application (the “Service”). By installing or using the Service, you agree to these Terms.
 
 ## 1. Eligibility
 You must be at least 13 years old to use the Service. By using it, you represent that you meet this requirement.
