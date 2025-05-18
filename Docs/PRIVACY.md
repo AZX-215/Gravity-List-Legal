@@ -2,7 +2,7 @@
 
 **Last updated: May 17, 2025**
 
-Gravity’s Lists (“we,” “us,” or “our”) respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Discord application (the “Service”).
+Gravity List (“we,” “us,” or “our”) respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Discord application (the “Service”).
 
 ## 1. Information We Collect
 
